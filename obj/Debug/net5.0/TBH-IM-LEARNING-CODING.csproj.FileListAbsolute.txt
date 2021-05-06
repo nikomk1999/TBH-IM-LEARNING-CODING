@@ -1,0 +1,16 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\TBH-IM-LEARNING-CODING.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\TBH-IM-LEARNING-CODING.deps.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\TBH-IM-LEARNING-CODING.runtimeconfig.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\TBH-IM-LEARNING-CODING.runtimeconfig.dev.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\TBH-IM-LEARNING-CODING.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\ref\TBH-IM-LEARNING-CODING.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\bin\Debug\net5.0\TBH-IM-LEARNING-CODING.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.csprojAssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.GeneratedMSBuildEditorConfig.editorconfig
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.AssemblyInfoInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.AssemblyInfo.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\ref\TBH-IM-LEARNING-CODING.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\obj\Debug\net5.0\TBH-IM-LEARNING-CODING.genruntimeconfig.cache
