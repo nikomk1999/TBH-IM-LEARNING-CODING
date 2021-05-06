@@ -20,8 +20,16 @@ namespace Experiment1
             Console.WriteLine(character);
             Console.WriteLine(FirstName);
             Console.WriteLine(IsWorking);
-            //number = number + number2;
-            Console.WriteLine(number + "yo cool");
+            number = (byte) (number + 255);
+            Console.WriteLine(number + "yo cool if its less than like 100 it overflowed");
+            checked
+            {
+                number = (byte)(number + 254);
+                Console.WriteLine(number + "this should be like ~254");
+                number = (byte)(number + 250);
+                Console.WriteLine(number + "this should not overflow");
+            }
+            System.Threading.Thread.Sleep(5000);
         }
     }
 }
