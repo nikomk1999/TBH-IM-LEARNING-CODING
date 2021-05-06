@@ -1,0 +1,13 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
