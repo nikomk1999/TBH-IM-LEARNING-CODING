@@ -1,0 +1,12 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.deps.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.runtimeconfig.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.runtimeconfig.dev.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Debug\netcoreapp3.1\Experiment1.AssemblyInfoInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Debug\netcoreapp3.1\Experiment1.AssemblyInfo.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Debug\netcoreapp3.1\Experiment1.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Debug\netcoreapp3.1\Experiment1.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Debug\netcoreapp3.1\Experiment1.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Debug\netcoreapp3.1\Experiment1.genruntimeconfig.cache
