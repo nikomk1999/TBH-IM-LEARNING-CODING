@@ -1,0 +1,5 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Release\netcoreapp3.1\publish\Experiment1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Release\netcoreapp3.1\publish\Experiment1.dll
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Release\netcoreapp3.1\publish\Experiment1.deps.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Release\netcoreapp3.1\publish\Experiment1.runtimeconfig.json
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Release\netcoreapp3.1\publish\Experiment1.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Experiment1</id>
+    <version>1.0.0</version>
+    <authors>Experiment1</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.runtimeconfig.json" target="lib\netcoreapp3.1\Experiment1.runtimeconfig.json" />
+    <file src="G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\bin\Debug\netcoreapp3.1\Experiment1.dll" target="lib\netcoreapp3.1\Experiment1.dll" />
+  </files>
+</package>

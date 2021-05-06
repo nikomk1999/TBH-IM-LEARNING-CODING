@@ -10,3 +10,4 @@ G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Release\ne
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Release\netcoreapp3.1\Experiment1.dll
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Release\netcoreapp3.1\Experiment1.pdb
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Release\netcoreapp3.1\Experiment1.genruntimeconfig.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\Experiment1\Experiment1\obj\Release\netcoreapp3.1\Experiment1.csprojAssemblyReference.cache
