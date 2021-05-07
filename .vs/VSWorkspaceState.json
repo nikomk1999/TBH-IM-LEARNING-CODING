@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Experiment1",
-    "\\Experiment1\\Experiment1"
+    "\\cs",
+    "\\cs\\Mousetracker"
   ],
-  "SelectedNode": "\\Experiment1\\Experiment1\\Program.cs",
+  "SelectedNode": "\\cs\\Mousetracker\\Mousetracker.sln",
   "PreviewInSolutionExplorer": false
 }
