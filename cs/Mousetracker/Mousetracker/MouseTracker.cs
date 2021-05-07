@@ -25,6 +25,7 @@ namespace Mousetracker
             lblx.Visible = true;
             lbly.Visible = true;
             buttonstart.Visible = false;
+            GameButton.Visible = true;
 
 
 
@@ -55,11 +56,12 @@ namespace Mousetracker
             Target.Visible = true;
             TargX.Visible = true;
             TargY.Visible = true;
-            int Mx = MousePosition.X;
-            int My = MousePosition.Y;
+            GameButton.Visible = true;
+            int My = MousePosition.X;
+            int Mx = MousePosition.Y;
             Random r = new Random();
-            int rIntX = r.Next(0, 1080);
-            int rIntY = r.Next(0, 1920);
+            int rIntX = r.Next(0, 1079);
+            int rIntY = r.Next(0, 1919);
             TargX.Text = rIntX.ToString();
             TargY.Text = rIntY.ToString();
         }
