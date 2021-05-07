@@ -11,9 +11,9 @@ using System.Threading;
 
 namespace Mousetracker
 {
-    public partial class Form1 : Form
+    public partial class MouseTracker : Form
     {
-        public Form1()
+        public MouseTracker()
         {
             InitializeComponent();
         }
@@ -42,6 +42,12 @@ namespace Mousetracker
                 lblx.Text = x.ToString();
                 lbly.Text = y.ToString(); // sets the form1's text field named "lbly" to the int value
             }
+        }
+
+        private void ButAbout_MouseClick(object sender, MouseEventArgs e)
+        {
+            About f2 = new About();
+            f2.Show();
         }
     }
 }

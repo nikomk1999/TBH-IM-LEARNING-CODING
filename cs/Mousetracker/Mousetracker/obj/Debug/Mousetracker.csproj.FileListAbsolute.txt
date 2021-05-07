@@ -18,7 +18,6 @@ G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\bin\Debug
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\bin\Debug\Mousetracker.exe
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\bin\Debug\Mousetracker.pdb
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.csprojAssemblyReference.cache
-G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.Form1.resources
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.Properties.Resources.resources
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.csproj.GenerateResource.cache
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.csproj.CoreCompileInputs.cache
@@ -26,3 +25,6 @@ G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.application
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.exe
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.MouseTracker.resources
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.About.resources
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\Mousetracker\Mousetracker\obj\Debug\Mousetracker.ToS.resources

@@ -1,7 +1,7 @@
 ﻿
 namespace Mousetracker
 {
-    partial class Form1
+    partial class MouseTracker
     {
         /// <summary>
         /// Required designer variable.
@@ -29,18 +29,21 @@ namespace Mousetracker
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.Button ButAbout;
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
+            this.buttonstart = new System.Windows.Forms.Button();
+            this.lbly = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.lblx = new System.Windows.Forms.Label();
-            this.lbly = new System.Windows.Forms.Label();
-            this.buttonstart = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            ButAbout = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel1.Controls.Add(ButAbout);
             this.panel1.Controls.Add(this.buttonstart);
             this.panel1.Controls.Add(this.lbly);
             this.panel1.Controls.Add(this.label2);
@@ -51,16 +54,26 @@ namespace Mousetracker
             this.panel1.Size = new System.Drawing.Size(313, 152);
             this.panel1.TabIndex = 0;
             // 
-            // label1
+            // buttonstart
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(66, 50);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(29, 25);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "X";
-            this.label1.Visible = false;
+            this.buttonstart.Location = new System.Drawing.Point(84, 50);
+            this.buttonstart.Name = "buttonstart";
+            this.buttonstart.Size = new System.Drawing.Size(143, 44);
+            this.buttonstart.TabIndex = 1;
+            this.buttonstart.Text = "Start tracking";
+            this.buttonstart.UseVisualStyleBackColor = true;
+            this.buttonstart.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button1_MouseClick);
+            // 
+            // lbly
+            // 
+            this.lbly.AutoSize = true;
+            this.lbly.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbly.Location = new System.Drawing.Point(166, 96);
+            this.lbly.Name = "lbly";
+            this.lbly.Size = new System.Drawing.Size(72, 25);
+            this.lbly.TabIndex = 0;
+            this.lbly.Text = "0000";
+            this.lbly.Visible = false;
             // 
             // label2
             // 
@@ -84,26 +97,26 @@ namespace Mousetracker
             this.lblx.Text = "0000";
             this.lblx.Visible = false;
             // 
-            // lbly
+            // label1
             // 
-            this.lbly.AutoSize = true;
-            this.lbly.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbly.Location = new System.Drawing.Point(166, 96);
-            this.lbly.Name = "lbly";
-            this.lbly.Size = new System.Drawing.Size(72, 25);
-            this.lbly.TabIndex = 0;
-            this.lbly.Text = "0000";
-            this.lbly.Visible = false;
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(66, 50);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(29, 25);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "X";
+            this.label1.Visible = false;
             // 
-            // buttonstart
+            // ButAbout
             // 
-            this.buttonstart.Location = new System.Drawing.Point(84, 50);
-            this.buttonstart.Name = "buttonstart";
-            this.buttonstart.Size = new System.Drawing.Size(143, 44);
-            this.buttonstart.TabIndex = 1;
-            this.buttonstart.Text = "Start tracking";
-            this.buttonstart.UseVisualStyleBackColor = true;
-            this.buttonstart.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button1_MouseClick);
+            ButAbout.Location = new System.Drawing.Point(3, 124);
+            ButAbout.Name = "ButAbout";
+            ButAbout.Size = new System.Drawing.Size(44, 23);
+            ButAbout.TabIndex = 2;
+            ButAbout.Text = "About";
+            ButAbout.UseVisualStyleBackColor = true;
+            ButAbout.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ButAbout_MouseClick);
             // 
             // Form1
             // 
