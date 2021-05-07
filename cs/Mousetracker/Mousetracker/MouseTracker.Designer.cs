@@ -36,16 +36,34 @@ namespace Mousetracker
             this.label2 = new System.Windows.Forms.Label();
             this.lblx = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.TargX = new System.Windows.Forms.Label();
+            this.TargY = new System.Windows.Forms.Label();
+            this.Target = new System.Windows.Forms.Label();
             ButAbout = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
+            // ButAbout
+            // 
+            ButAbout.Location = new System.Drawing.Point(3, 124);
+            ButAbout.Name = "ButAbout";
+            ButAbout.Size = new System.Drawing.Size(44, 23);
+            ButAbout.TabIndex = 2;
+            ButAbout.Text = "About";
+            ButAbout.UseVisualStyleBackColor = true;
+            ButAbout.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ButAbout_MouseClick);
+            // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(ButAbout);
             this.panel1.Controls.Add(this.buttonstart);
+            this.panel1.Controls.Add(this.TargY);
             this.panel1.Controls.Add(this.lbly);
+            this.panel1.Controls.Add(this.Target);
+            this.panel1.Controls.Add(this.TargX);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.lblx);
             this.panel1.Controls.Add(this.label1);
@@ -108,23 +126,56 @@ namespace Mousetracker
             this.label1.Text = "X";
             this.label1.Visible = false;
             // 
-            // ButAbout
+            // button1
             // 
-            ButAbout.Location = new System.Drawing.Point(3, 124);
-            ButAbout.Name = "ButAbout";
-            ButAbout.Size = new System.Drawing.Size(44, 23);
-            ButAbout.TabIndex = 2;
-            ButAbout.Text = "About";
-            ButAbout.UseVisualStyleBackColor = true;
-            ButAbout.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ButAbout_MouseClick);
+            this.button1.Location = new System.Drawing.Point(264, 124);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(46, 23);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "Game";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // TargX
+            // 
+            this.TargX.AutoSize = true;
+            this.TargX.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TargX.Location = new System.Drawing.Point(238, 50);
+            this.TargX.Name = "TargX";
+            this.TargX.Size = new System.Drawing.Size(72, 25);
+            this.TargX.TabIndex = 0;
+            this.TargX.Text = "0000";
+            this.TargX.Visible = false;
+            // 
+            // TargY
+            // 
+            this.TargY.AutoSize = true;
+            this.TargY.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TargY.Location = new System.Drawing.Point(238, 96);
+            this.TargY.Name = "TargY";
+            this.TargY.Size = new System.Drawing.Size(72, 25);
+            this.TargY.TabIndex = 0;
+            this.TargY.Text = "0000";
+            this.TargY.Visible = false;
+            // 
+            // Target
+            // 
+            this.Target.AutoSize = true;
+            this.Target.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Target.Location = new System.Drawing.Point(238, 25);
+            this.Target.Name = "Target";
+            this.Target.Size = new System.Drawing.Size(82, 25);
+            this.Target.TabIndex = 0;
+            this.Target.Text = "Target";
+            this.Target.Visible = false;
+            // 
+            // MouseTracker
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(310, 147);
             this.Controls.Add(this.panel1);
-            this.Name = "Form1";
+            this.Name = "MouseTracker";
             this.Text = "MouseTracking";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -140,6 +191,10 @@ namespace Mousetracker
         private System.Windows.Forms.Label lblx;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button buttonstart;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label TargY;
+        private System.Windows.Forms.Label Target;
+        private System.Windows.Forms.Label TargX;
     }
 }
 

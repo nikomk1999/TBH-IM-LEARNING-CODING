@@ -19,16 +19,11 @@ namespace Mousetracker
             Application.Run(new MouseTracker());
 
         }
-        /*  private void Tracker()
-          {
-              while (true)
-              {
-                  int x = MousePosition.X;
-                  int y = MousePosition.Y;
-
-                  lblx.Text = x.ToString();
-                  lbly.Text = y.ToString();
-              }   
-          } */
+        static void Game()
+        {
+            int MouX = MouseTracker.MousePosition.X;
+            int MouY = MouseTracker.MousePosition.Y;
+            Console.WriteLine(MouY + MouX);
+        }
     }
 }

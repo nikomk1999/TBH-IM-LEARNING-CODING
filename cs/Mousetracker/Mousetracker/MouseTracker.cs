@@ -49,5 +49,19 @@ namespace Mousetracker
             About f2 = new About();
             f2.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Target.Visible = true;
+            TargX.Visible = true;
+            TargY.Visible = true;
+            int Mx = MousePosition.X;
+            int My = MousePosition.Y;
+            Random r = new Random();
+            int rIntX = r.Next(0, 1080);
+            int rIntY = r.Next(0, 1920);
+            TargX.Text = rIntX.ToString();
+            TargY.Text = rIntY.ToString();
+        }
     }
 }
