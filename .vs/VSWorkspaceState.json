@@ -3,8 +3,9 @@
     "",
     "\\cs",
     "\\cs\\Experiment1",
-    "\\cs\\Mousetracker"
+    "\\cs\\Mousetracker",
+    "\\cs\\TimerManForm"
   ],
-  "SelectedNode": "\\cs\\HelloWorld",
+  "SelectedNode": "\\cs\\TimerManForm\\TimerManForm.sln",
   "PreviewInSolutionExplorer": false
 }
