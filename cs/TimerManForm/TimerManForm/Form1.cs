@@ -46,7 +46,7 @@ namespace TimerManForm
 
         private async void WhenGaming()
         {
-            while (true)
+            while (true) 
             {
                 await Task.Delay(100);
                 if (OnOffBox.Checked)

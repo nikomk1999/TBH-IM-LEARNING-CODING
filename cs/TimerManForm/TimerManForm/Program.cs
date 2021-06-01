@@ -11,6 +11,7 @@ namespace TimerManForm
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// hi :)
         [STAThread]
         static void Main()
         {
