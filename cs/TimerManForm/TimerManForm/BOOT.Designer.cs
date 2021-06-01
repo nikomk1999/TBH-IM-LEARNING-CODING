@@ -29,26 +29,26 @@ namespace TimerManForm
         /// </summary>
         private void InitializeComponent()
         {
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.BRtoC1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
-            // checkBox1
+            // BRtoC1
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(13, 13);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(80, 17);
-            this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.BRtoC1.AutoSize = true;
+            this.BRtoC1.Location = new System.Drawing.Point(13, 13);
+            this.BRtoC1.Name = "BRtoC1";
+            this.BRtoC1.Size = new System.Drawing.Size(89, 17);
+            this.BRtoC1.TabIndex = 0;
+            this.BRtoC1.Text = "ClockLoaded";
+            this.BRtoC1.UseVisualStyleBackColor = true;
+            this.BRtoC1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // BOOT
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(215, 257);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.BRtoC1);
             this.Name = "BOOT";
             this.Text = "BOOT";
             this.ResumeLayout(false);
@@ -58,6 +58,6 @@ namespace TimerManForm
 
         #endregion
 
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox BRtoC1;
     }
 }

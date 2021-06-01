@@ -15,6 +15,14 @@ namespace TimerManForm
         public BOOT()
         {
             InitializeComponent();
+            //bool TimerTrue = RtoC1; call from Form1
+        }
+        private void Hmmm()
+        {
+            //var timer = new Form1();
+            //bool one 
+
+            //bool TimerTrue = RtoC1; call from Form1
         }
 
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
