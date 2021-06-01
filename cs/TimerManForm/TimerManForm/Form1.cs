@@ -30,6 +30,7 @@ namespace TimerManForm
             RtoC1 = false;
             await Task.Delay(2000);
             lbTime.Visible = true;
+            OnOffBox.Visible = true;
             RtoC1 = true;
 
 

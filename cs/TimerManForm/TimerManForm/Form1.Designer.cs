@@ -75,6 +75,7 @@ namespace TimerManForm
             this.OnOffBox.TabIndex = 1;
             this.OnOffBox.Text = "On/Off";
             this.OnOffBox.UseVisualStyleBackColor = true;
+            this.OnOffBox.Visible = false;
             this.OnOffBox.CheckedChanged += new System.EventHandler(this.OnOffBox_CheckedChanged);
             // 
             // nudHour
