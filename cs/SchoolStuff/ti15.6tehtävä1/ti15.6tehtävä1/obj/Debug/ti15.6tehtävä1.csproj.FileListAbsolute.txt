@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\bin\Debug\ti15.6tehtävä1.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\bin\Debug\ti15.6tehtävä1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\bin\Debug\ti15.6tehtävä1.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\obj\Debug\ti15.6tehtävä1.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\obj\Debug\ti15.6tehtävä1.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\obj\Debug\ti15.6tehtävä1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\ti15.6tehtävä1\ti15.6tehtävä1\obj\Debug\ti15.6tehtävä1.pdb

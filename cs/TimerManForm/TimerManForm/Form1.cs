@@ -8,13 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
+using System.Runtime.InteropServices;
 
 namespace TimerManForm
 {
     public partial class Form1 : Form
     {
         public bool RtoC1;
-        public Form1()
+        public Form1() //start
         {
             InitializeComponent();
             Timer1.Start();
@@ -25,7 +26,7 @@ namespace TimerManForm
             WhenGaming();
         }
 
-        private async void TimeVisible()
+        private async void TimeVisible()  //prints system time
         {
             RtoC1 = false;
             await Task.Delay(2000);
@@ -36,7 +37,7 @@ namespace TimerManForm
 
         }
 
-        private async void IsitON()
+        private async void IsitON() //wates 2s so the time is displayed
         {
             if (RtoC1 = false);
             {
@@ -45,7 +46,7 @@ namespace TimerManForm
             }         
         }
 
-        private async void WhenGaming()
+        private async void WhenGaming() //makes stuff visible based on if the on/off box is checked or not
         {
             while (true) 
             {
@@ -64,6 +65,11 @@ namespace TimerManForm
                 }
             }
         }
+
+      /*  static class Keypress
+        {
+            SendKeys.Send("{F5}");
+        } */
 
 
         private void Timer1_Tick(object sender, EventArgs e)

@@ -11,7 +11,6 @@ G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\TimerManForm\TimerManForm\obj\Debug\Ti
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\bin\Debug\TimerManForm.exe.config
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\bin\Debug\TimerManForm.exe
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\bin\Debug\TimerManForm.pdb
-G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.csprojAssemblyReference.cache
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.Form1.resources
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.Properties.Resources.resources
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.csproj.GenerateResource.cache
@@ -19,3 +18,4 @@ G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.exe
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.pdb
 G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.BOOT.resources
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\TimerManForm\TimerManForm\obj\Debug\TimerManForm.csproj.AssemblyReference.cache

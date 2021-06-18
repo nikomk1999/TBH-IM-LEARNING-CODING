@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\bin\Debug\Ke16.06moodletehtävä.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\bin\Debug\Ke16.06moodletehtävä.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\bin\Debug\Ke16.06moodletehtävä.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\obj\Debug\Ke16.06moodletehtävä.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\obj\Debug\Ke16.06moodletehtävä.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\obj\Debug\Ke16.06moodletehtävä.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Ke16.06moodletehtävä\Ke16.06moodletehtävä\obj\Debug\Ke16.06moodletehtävä.pdb

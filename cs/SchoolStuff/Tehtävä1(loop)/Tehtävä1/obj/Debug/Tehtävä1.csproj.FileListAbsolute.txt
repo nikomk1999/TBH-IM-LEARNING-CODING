@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\obj\Debug\Tehtävä1.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\obj\Debug\Tehtävä1.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\bin\Debug\Tehtävä1.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\bin\Debug\Tehtävä1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\bin\Debug\Tehtävä1.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\obj\Debug\Tehtävä1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Tehtävä1\Tehtävä1\obj\Debug\Tehtävä1.pdb

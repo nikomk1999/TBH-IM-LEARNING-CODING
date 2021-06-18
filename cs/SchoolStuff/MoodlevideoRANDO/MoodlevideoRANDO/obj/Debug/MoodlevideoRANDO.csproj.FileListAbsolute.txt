@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\bin\Debug\MoodlevideoRANDO.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\bin\Debug\MoodlevideoRANDO.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\bin\Debug\MoodlevideoRANDO.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\obj\Debug\MoodlevideoRANDO.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\obj\Debug\MoodlevideoRANDO.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\obj\Debug\MoodlevideoRANDO.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoRANDO\MoodlevideoRANDO\obj\Debug\MoodlevideoRANDO.pdb

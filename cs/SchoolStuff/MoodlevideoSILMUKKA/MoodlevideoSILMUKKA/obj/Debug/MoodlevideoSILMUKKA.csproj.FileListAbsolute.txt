@@ -1,0 +1,13 @@
+C:\Users\niko\source\repos\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\bin\Debug\MoodlevideoSILMUKKA.exe.config
+C:\Users\niko\source\repos\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\bin\Debug\MoodlevideoSILMUKKA.exe
+C:\Users\niko\source\repos\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\bin\Debug\MoodlevideoSILMUKKA.pdb
+C:\Users\niko\source\repos\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.csproj.CoreCompileInputs.cache
+C:\Users\niko\source\repos\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.exe
+C:\Users\niko\source\repos\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\bin\Debug\MoodlevideoSILMUKKA.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\bin\Debug\MoodlevideoSILMUKKA.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\bin\Debug\MoodlevideoSILMUKKA.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodlevideoSILMUKKA\MoodlevideoSILMUKKA\obj\Debug\MoodlevideoSILMUKKA.pdb

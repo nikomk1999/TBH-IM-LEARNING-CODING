@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\bin\Debug\Moodle_tehtävä_koodi.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\bin\Debug\Moodle_tehtävä_koodi.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\bin\Debug\Moodle_tehtävä_koodi.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\obj\Debug\Moodle_tehtävä_koodi.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\obj\Debug\Moodle_tehtävä_koodi.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\obj\Debug\Moodle_tehtävä_koodi.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle_tehtävä_koodi\Moodle_tehtävä_koodi\obj\Debug\Moodle_tehtävä_koodi.pdb

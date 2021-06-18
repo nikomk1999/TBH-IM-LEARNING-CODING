@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ti15.6tehtävä1", "ti15.6tehtävä1\ti15.6tehtävä1.csproj", "{EC08DBC3-D6BA-4A4B-8FCF-40A4AE6F5646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC08DBC3-D6BA-4A4B-8FCF-40A4AE6F5646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC08DBC3-D6BA-4A4B-8FCF-40A4AE6F5646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC08DBC3-D6BA-4A4B-8FCF-40A4AE6F5646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC08DBC3-D6BA-4A4B-8FCF-40A4AE6F5646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88E4CD47-4207-4E35-9D1E-B4F53D176CFE}
+	EndGlobalSection
+EndGlobal

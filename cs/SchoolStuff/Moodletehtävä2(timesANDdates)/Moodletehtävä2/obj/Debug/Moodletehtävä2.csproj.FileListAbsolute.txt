@@ -1,0 +1,14 @@
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\bin\Debug\Moodletehtävä2.exe.config
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\bin\Debug\Moodletehtävä2.exe
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\bin\Debug\Moodletehtävä2.pdb
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\obj\Debug\Moodletehtävä2.csproj.AssemblyReference.cache
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\obj\Debug\Moodletehtävä2.csproj.CoreCompileInputs.cache
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\obj\Debug\Moodletehtävä2.exe
+C:\Users\niko\source\repos\Moodletehtävä2\Moodletehtävä2\obj\Debug\Moodletehtävä2.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\bin\Debug\Moodletehtävä2.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\bin\Debug\Moodletehtävä2.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\bin\Debug\Moodletehtävä2.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\obj\Debug\Moodletehtävä2.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\obj\Debug\Moodletehtävä2.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\obj\Debug\Moodletehtävä2.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodletehtävä2(timesANDdates)\Moodletehtävä2\obj\Debug\Moodletehtävä2.pdb

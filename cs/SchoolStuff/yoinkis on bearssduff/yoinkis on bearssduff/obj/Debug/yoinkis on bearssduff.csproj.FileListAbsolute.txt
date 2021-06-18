@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\bin\Debug\yoinkis on bearssduff.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\bin\Debug\yoinkis on bearssduff.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\bin\Debug\yoinkis on bearssduff.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\obj\Debug\yoinkis on bearssduff.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\obj\Debug\yoinkis on bearssduff.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\obj\Debug\yoinkis on bearssduff.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\yoinkis on bearssduff\yoinkis on bearssduff\obj\Debug\yoinkis on bearssduff.pdb
