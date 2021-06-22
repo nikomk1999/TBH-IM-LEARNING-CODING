@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\bin\Debug\esimerkkejä.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\bin\Debug\esimerkkejä.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\bin\Debug\esimerkkejä.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\obj\Debug\esimerkkejä.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\obj\Debug\esimerkkejä.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\obj\Debug\esimerkkejä.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\esimerkkejä\esimerkkejä\obj\Debug\esimerkkejä.pdb
