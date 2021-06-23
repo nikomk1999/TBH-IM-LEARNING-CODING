@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\bin\Debug\Moodle3PVosa13.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\bin\Debug\Moodle3PVosa13.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\bin\Debug\Moodle3PVosa13.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\obj\Debug\Moodle3PVosa13.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\obj\Debug\Moodle3PVosa13.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\obj\Debug\Moodle3PVosa13.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Moodle3PVosa13\Moodle3PVosa13\obj\Debug\Moodle3PVosa13.pdb

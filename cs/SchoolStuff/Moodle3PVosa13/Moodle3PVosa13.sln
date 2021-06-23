@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moodle3PVosa13", "Moodle3PVosa13\Moodle3PVosa13.csproj", "{8ACAFC2A-91A3-461C-B793-CA4476913AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACAFC2A-91A3-461C-B793-CA4476913AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACAFC2A-91A3-461C-B793-CA4476913AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACAFC2A-91A3-461C-B793-CA4476913AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACAFC2A-91A3-461C-B793-CA4476913AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321679D4-A42C-4307-893F-3083C613B3E0}
+	EndGlobalSection
+EndGlobal

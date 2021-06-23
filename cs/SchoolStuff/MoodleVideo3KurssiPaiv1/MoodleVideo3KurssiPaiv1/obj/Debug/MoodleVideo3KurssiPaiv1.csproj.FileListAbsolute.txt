@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\bin\Debug\MoodleVideo3KurssiPaiv1.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\bin\Debug\MoodleVideo3KurssiPaiv1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\bin\Debug\MoodleVideo3KurssiPaiv1.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\obj\Debug\MoodleVideo3KurssiPaiv1.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\obj\Debug\MoodleVideo3KurssiPaiv1.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\obj\Debug\MoodleVideo3KurssiPaiv1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3KurssiPaiv1\MoodleVideo3KurssiPaiv1\obj\Debug\MoodleVideo3KurssiPaiv1.pdb

@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\bin\Debug\MoodleVideo3Paiva2.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\bin\Debug\MoodleVideo3Paiva2.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\bin\Debug\MoodleVideo3Paiva2.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\obj\Debug\MoodleVideo3Paiva2.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\obj\Debug\MoodleVideo3Paiva2.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\obj\Debug\MoodleVideo3Paiva2.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\MoodleVideo3Paiva2\MoodleVideo3Paiva2\obj\Debug\MoodleVideo3Paiva2.pdb

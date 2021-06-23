@@ -73,6 +73,22 @@ namespace Moodletehtävä2
                 Console.WriteLine(ee.Message);
                 aikaaikaJaljella = 0;
             }
+            if (aikaaikaJaljella < 2)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.BackgroundColor = ConsoleColor.DarkRed;
+                Console.Beep(200, 1000);
+            }
+            else if (aikaaikaJaljella < 20)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.BackgroundColor = ConsoleColor.Blue;
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.BackgroundColor = ConsoleColor.Green;
+            }
             //syntymaAikaDT = DateTime.ParseExact(alkuAika, formaatti, kultuuri);
             //aikaEro = tanaan.Subtract(syntymaAikaDT).TotalHours; //days on päiviä varten
             Console.WriteLine("odotettua elinaikaa jäljellä " + vuodetKuukaudetPaivat + ".");

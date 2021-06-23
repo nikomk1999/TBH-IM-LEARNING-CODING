@@ -1,0 +1,7 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\bin\Debug\Arvauspeli.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\bin\Debug\Arvauspeli.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\bin\Debug\Arvauspeli.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.pdb
