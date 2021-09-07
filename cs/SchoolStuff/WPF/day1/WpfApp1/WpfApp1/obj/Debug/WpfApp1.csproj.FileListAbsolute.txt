@@ -1,0 +1,15 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,5 @@
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfAutoOlio\WpfAutoOlio\obj\Debug\WpfAutoOlio.csproj.AssemblyReference.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfAutoOlio\WpfAutoOlio\obj\Debug\MainWindow.g.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfAutoOlio\WpfAutoOlio\obj\Debug\App.g.cs
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfAutoOlio\WpfAutoOlio\obj\Debug\WpfAutoOlio_MarkupCompile.cache
+G:\projectsOwO\Git\TBH-IM-LEARNING-CODING\cs\SchoolStuff\WPF\day1\WpfAutoOlio\WpfAutoOlio\obj\Debug\WpfAutoOlio_MarkupCompile.lref
